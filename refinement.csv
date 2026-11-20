@@ -1,0 +1,4 @@
+method,cases,accepted,total_charged_node_work,total_charged_seconds
+price_only,11,9,102792600,25.937954031971454
+uniform_joint,11,8,196465560,49.25268116097868
+directional_joint,11,9,95774480,34.066340556004434
