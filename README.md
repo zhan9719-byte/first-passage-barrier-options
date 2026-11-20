@@ -1,6 +1,6 @@
 # First-Passage Modeling and Barrier Option Valuation
 
-How accurately can we price and hedge a down-and-out call as spot approaches the barrier? This study connects first-passage probabilities to the pricing PDE, calibrates Heston to SPXW vanilla quotes on 24 trading days, and tests how reliably finite differences and Monte Carlo estimate Gamma.
+Near a knock-out barrier, can the option price appear to converge while its Gamma remains inaccurate? This study connects first-passage probabilities to the pricing PDE, calibrates Heston to SPXW vanilla quotes on 24 trading days, and tests how reliably finite differences and Monte Carlo estimate Gamma.
 
 | Experiment | Result |
 | --- | --- |
